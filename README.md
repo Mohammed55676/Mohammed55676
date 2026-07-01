@@ -8,8 +8,14 @@
   <a href="https://github.com/Mohammed55676">
     <img src="https://img.shields.io/badge/GitHub-Mohammed55676-181717?style=for-the-badge&logo=github" />
   </a>
-    <a href="#-get-in-touch">
-              <img src="https://img.shields.io/badge/Get%20in%20Touch-%F0%9F%93%AB-brightgreen?style=for-the-badge" />
+      <a href="https://www.linkedin.com/in/eng-mohammed-hamdi/">
+            <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    <a href="https://my-portfolio-henna-omega-877u46t6wt.vercel.app/">
+          <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="mailto:mohaa34356@gmail.com">
+          <img src="https://img.shields.io/badge/Email-mohaa34356%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
 
@@ -86,22 +92,6 @@ Marketing website for Skyline Glass, a Durham, NC glass installation contractor.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed55676&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
-## 📫 Get in Touch
-
-<p>
-  <a href="https://www.linkedin.com/in/eng-mohammed-hamdi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://my-portfolio-henna-omega-877u46t6wt.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:mohaa34356@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mohaa34356%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
