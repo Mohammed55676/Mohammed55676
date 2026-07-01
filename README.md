@@ -8,6 +8,9 @@
   <a href="https://github.com/Mohammed55676">
     <img src="https://img.shields.io/badge/GitHub-Mohammed55676-181717?style=for-the-badge&logo=github" />
   </a>
+    <a href="#-get-in-touch">
+              <img src="https://img.shields.io/badge/Get%20in%20Touch-%F0%9F%93%AB-brightgreen?style=for-the-badge" />
+    </a>
 </p>
 
 ---
