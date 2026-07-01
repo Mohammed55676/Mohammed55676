@@ -96,6 +96,22 @@ Marketing website for Skyline Glass, a Durham, NC glass installation contractor.
 
 ---
 
+## 📫 Get in Touch
+
+<p>
+    <a href="https://www.linkedin.com/in/eng-mohammed-hamdi/">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://my-portfolio-henna-omega-877u46t6wt.vercel.app/">
+          <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="mailto:mohaa34356@gmail.com">
+          <img src="https://img.shields.io/badge/Email-mohaa34356%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+</p>
+
+---
+
 <p align="center">
   <i>"First, solve the problem. Then, write the code." – John Johnson</i>
 </p>
