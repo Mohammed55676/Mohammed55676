@@ -77,12 +77,12 @@ Marketing website for Skyline Glass, a Durham, NC glass installation contractor.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammed55676&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohammed55676&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohammed55676&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammed55676&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammed55676&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohammed55676&theme=tokyonight" width="32%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed55676&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -90,8 +90,11 @@ Marketing website for Skyline Glass, a Durham, NC glass installation contractor.
 ## 📫 Get in Touch
 
 <p>
-  <a href="https://www.linkedin.com/in/Mohammed55676">
+  <a href="https://www.linkedin.com/in/eng-mohammed-hamdi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://my-portfolio-henna-omega-877u46t6wt.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:mohaa34356@gmail.com">
     <img src="https://img.shields.io/badge/Email-mohaa34356%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
