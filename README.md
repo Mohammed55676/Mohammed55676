@@ -11,7 +11,7 @@
       <a href="https://www.linkedin.com/in/eng-mohammed-hamdi/">
             <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
-    <a href="https://my-portfolio-henna-omega-877u46t6wt.vercel.app/">
+    <a href="https://mohammed-hamdi.vercel.app">
           <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <a href="mailto:mohaa34356@gmail.com">
@@ -102,7 +102,7 @@ Marketing website for Skyline Glass, a Durham, NC glass installation contractor.
     <a href="https://www.linkedin.com/in/eng-mohammed-hamdi/">
           <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://my-portfolio-henna-omega-877u46t6wt.vercel.app/">
+    <a href="https://mohammed-hamdi.vercel.app/">
           <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <a href="mailto:mohaa34356@gmail.com">
