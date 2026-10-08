@@ -58,7 +58,7 @@ Full-stack developer and Software Engineering graduate (B.Sc., Al-Zaytoonah Univ
 ### 🔹 Menassat Al-Khair — منصة الخير
 My graduation project: a full-stack platform that connects donors with people in need through money campaigns, in-kind donations and real-time chat. Charities go through a verification workflow, messaging is private by role over Socket.IO, and an admin dashboard oversees everything.
 
-**Tech Stack:** React 19, Vite, Tailwind CSS v4, Node.js, Express.js, MongoDB, Socket.IO, JWT, Firebase Auth  
+**Tech Stack:** React 18, Vite, Tailwind CSS v4, Node.js, Express.js, MongoDB, Socket.IO, JWT, Firebase Auth  
 **Live Demo:** [al-khairplatform.netlify.app](https://al-khairplatform.netlify.app/) | **Repository:** [View Code](https://github.com/Mohammed55676/Donation-Platform)
 
 **Key Features:**
@@ -76,12 +76,28 @@ My graduation project: a full-stack platform that connects donors with people in
 Multi-page marketing site for Skyline Glass, a glass installation contractor in Durham, NC. Services, media gallery, contact form and quote request, built solo with plain HTML and CSS.
 
 **Tech Stack:** HTML5, CSS3, CSS Grid/Flexbox, Font Awesome, Google Fonts, Netlify  
-**Live Demo:** [skylineglass.netlify.app](https://skylineglass.netlify.app/) | **Repository:** [View Code](https://github.com/Mohammed55676/Blue-Ray-Glass)
+**Live Demo:** [skylineglass.netlify.app](https://skylineglass.netlify.app/) | **Repository:** [View Code](https://github.com/Mohammed55676/Skyline-Glass)
 
 **Key Features:**
 - 📱 Responsive on mobile, tablet and desktop
 - 🏠 Home, About, Services, Media Gallery, Contact & Get Quote pages
 - ⚡ No frameworks or build step, so it loads fast
+
+---
+
+### Personal Portfolio — Content-Managed Website
+A personal portfolio showcasing projects, skills, education and work experience, with an admin dashboard for updating content.
+Built with Next.js, TypeScript, Tailwind CSS and Supabase, with a contact form and email notifications.
+
+**Live Demo:** [mohammed-hamdi.vercel.app](https://mohammed-hamdi.vercel.app/) | **Repository:** [View Code](https://github.com/Mohammed55676/My_Portfolio)
+
+---
+
+### Clothes Management System — Retail Dashboard Prototype
+A clothing-store management frontend covering point of sale, products, inventory, customers, sales and reporting.
+Built with React, TypeScript and Vite; the current public repository uses demo data to showcase the workflows.
+
+**Repository:** [View Code](https://github.com/Mohammed55676/Clothes-Management-System)
 
 ---
 
