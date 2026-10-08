@@ -58,7 +58,7 @@ Full-stack developer and Software Engineering graduate (B.Sc., Al-Zaytoonah Univ
 ### 🔹 Menassat Al-Khair — منصة الخير
 My graduation project: a full-stack platform that connects donors with people in need through money campaigns, in-kind donations and real-time chat. Charities go through a verification workflow, messaging is private by role over Socket.IO, and an admin dashboard oversees everything.
 
-**Tech Stack:** React 18, Vite, Tailwind CSS v4, Node.js, Express.js, MongoDB, Socket.IO, JWT, Firebase Auth  
+**Tech Stack:** React 18, TypeScript, Vite, Tailwind CSS v4, Node.js, Express.js, MongoDB, Socket.IO, JWT, Firebase Auth  
 **Live Demo:** [al-khairplatform.netlify.app](https://al-khairplatform.netlify.app/) | **Repository:** [View Code](https://github.com/Mohammed55676/Donation-Platform)
 
 **Key Features:**
@@ -85,19 +85,32 @@ Multi-page marketing site for Skyline Glass, a glass installation contractor in 
 
 ---
 
-### Personal Portfolio — Content-Managed Website
-A personal portfolio showcasing projects, skills, education and work experience, with an admin dashboard for updating content.
-Built with Next.js, TypeScript, Tailwind CSS and Supabase, with a contact form and email notifications.
+### 🔹 Personal Portfolio — Content-Managed Website
+A personal portfolio showcasing my projects, skills, education and work experience, with an admin dashboard so I can update the content without touching the code.
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Supabase, Vercel  
 
 **Live Demo:** [mohammed-hamdi.vercel.app](https://mohammed-hamdi.vercel.app/) | **Repository:** [View Code](https://github.com/Mohammed55676/My_Portfolio)
 
+**Key Features:**
+- 🗂️ Projects, skills, education & experience sections
+- 🛠️ Admin dashboard to manage the content
+- ✉️ Contact form with email notifications
+
 ---
 
-### Clothes Management System — Retail Dashboard Prototype
-A clothing-store management frontend covering point of sale, products, inventory, customers, sales and reporting.
-Built with React, TypeScript and Vite; the current public repository uses demo data to showcase the workflows.
+### 🔹 Clothes Management System — Retail Dashboard Prototype
+A clothing-store management frontend covering point of sale, products, inventory, customers, sales and reporting. The public version runs on demo data to show the workflows.
+
+**Tech Stack:** React, TypeScript, Vite  
 
 **Repository:** [View Code](https://github.com/Mohammed55676/Clothes-Management-System)
+
+**Key Features:**
+- 🧾 Point of sale (POS) screen
+- 👕 Products & inventory management
+- 👥 Customer records
+- 📈 Sales history & reports
 
 ---
 
